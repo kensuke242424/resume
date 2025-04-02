@@ -24,6 +24,8 @@
 合同会社 TickleCode | 2022/7 - 2024/1 | iOSアプリ開発スクールの運営サポート
 社会福祉法人よしみ会 泉北園百寿荘 | 2014/4 - 2022/3 | 介護サービス提供
 
+<br/>
+
 ## 株式会社ワクト(2024/2 - 2025/3)
 
 2024年に入社し、医療機関や各施術所で利用するモバイルアプリ開発案件にメンバーとして参画。  
@@ -66,6 +68,7 @@ UIフレームワーク | Flutter
 
 - [株式会社ワクト](https://www.wakuto.net/)
 
+<br/>
 
 ## 合同会社 TickleCode(2022/7 - 2024/1)
 
@@ -96,7 +99,7 @@ iOSアプリ開発スクール「CodeCandy」講師陣３名によるスクー�
 UIフレームワーク | SwiftUI
 ソース管理 | GitHub
 コミュニケーション | Slack
-Design Collaboration | Miro, Figma
+デザイン管理 | Miro, Figma
 プロジェクト管理 | Backlog
 その他ツール | WordPress, Adobe Premire Pro
 
@@ -105,6 +108,8 @@ Design Collaboration | Miro, Figma
 - [合同会社 TickleCode](https://ticklecode.com/)
 - [たった2日でマスターできる iPhoneアプリ開発集中講座](https://blog.code-candy.com/swiftbook2023/)
 - [CodeCandy 技術ブログ](https://blog.code-candy.com/category/swiftui/)
+
+<br/>
 
 ## 社会福祉法人よしみ会 泉北園百寿荘(2014/4 - 2022/3)
 
