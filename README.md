@@ -46,13 +46,13 @@ Flutterを用いた開発をメインに、Swiftを用いたiOS依存範囲の�
 Flutterを用いた新規/既存画面のUI実装のほか、  
 NFCおよびBluetooth接続カードリーダー経由で取得したカード情報のデータハンドリングロジックの実装、  
 ユーザーが登録した情報の取り消し機能の実装など従事。  
-メンバー数が多かったため、決定権を持つメンバーのGitLabでの実装レビュー負担を減らすため  
+メンバー数が多かったため、決定権を持つリーダーの実装レビュー負担を減らすため  
 前段階としての一次レビュー担当に積極的に手を挙げ、リーダーと連携を取りながら実施。  
 
 
 #### 技術スタック
 
-言語/フレームワーク/その他ツール | Tech Stack
+言語/フレームワーク/その他ツール | -
 --- | ---
 使用言語 | Dart, Swift
 プラットフォーム | iOS, Android
@@ -60,7 +60,7 @@ UIフレームワーク | Flutter
 テストフレームワーク | Mockito, XCTest
 ソース管理 | GitLab
 コミュニケーション | Teams
-ドキュメント管理 | GitLab, Teams
+ドキュメント管理 | SharePoint
 
 #### 関連URL
 
@@ -69,30 +69,32 @@ UIフレームワーク | Flutter
 
 ## 合同会社 TickleCode(2022/7 - 2024/1)
 
+iOSアプリ開発スクールの元でSwift学習をする中で、スクール講師陣の運営サポート業務にアルバイトとして従事。  
+
 #### 主な実績
 
-<!-- 主な実績を書く -->
+- 会社出版iOSアプリ開発書籍における出版前の原稿およびコードチェック業務
+- 会社運営のiOSアプリ技術ブログにて記事の執筆業務
+- 会社運営のYouTubeチャンネルにてコンテンツの編集業務
+
+
 
 #### チーム構成
 
-<!-- チーム構成を書く -->
+講師陣3名, メンバー1名
 
 #### 技術スタック
 
-Lang/Framefowrk/Tools | Tech Stack
+言語/フレームワーク/その他ツール | -
 --- | ---
-Programing Language | 
-Platform | 
-Framework | 
-DataBase | 
-Infrastructure | 
-SaaS | 
-CI/CD | 
-Source Management | 
-Communication | 
-Design Collaboration | 
-Project Management | 
-Documentation | 
+使用言語 | Swift
+プラットフォーム | iOS
+UIフレームワーク | SwiftUI
+ソース管理 | GitHub
+コミュニケーション | Slack
+Design Collaboration | Miro, Figma
+プロジェクト管理 | Backlog
+その他ツール | WordPress, Adobe Premire Pro
 
 #### Appendix
 
