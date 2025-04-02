@@ -161,7 +161,7 @@ UIフレームワーク | SwiftUI, UIKit（一部）
 
 #### 【関連URL】
 
-- [GitHubリポジトリ](https://github.com/kensuke242424/unico?tab=readme-ov-file)
+- [README](https://github.com/kensuke242424/unico?tab=readme-ov-file)
 - [App Store](https://onl.bz/nPb5KTg)
 - [サービスWebサイト](https://unicoapp.wixsite.com/mysite)
 
